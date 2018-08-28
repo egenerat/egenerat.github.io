@@ -1,3 +1,7 @@
 [submodule "presentation"]
 	path = presentation
 	url = https://github.com/egenerat/presentation.git
+[submodule "fodmap"]
+	path = fodmap
+	url = https://github.com/egenerat/fodmap.git
+	branch = master
